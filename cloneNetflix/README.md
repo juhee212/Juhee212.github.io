@@ -1,0 +1,9 @@
+# juhee212.github.io
+
+CLONE DO NETFLIX
+
+FERRAMENTAS USADAS 
+HTML
+CSS
+JS
+OWL AUTO PLAY (pro carrosel)
