@@ -4,9 +4,10 @@ $(document).ready(function(){
 	$(".projeto").hover(function(){
 		var imagem = $(this).data("imagem");
 		$("#imagem-projeto").attr("src", imagem).addClass("imagem-ampliada");
-	}, function() {
-		$("#imagem-projeto").removeClass("imagem-ampliada");
-	});
+	}
+	, function() {
+	 	$("#imagem-projeto").remove("imagem-ampliada");
+	 });
 });
  
 	// Burger Menu

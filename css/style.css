@@ -9672,8 +9672,7 @@ textarea.form-control {
   transform: scale(1.1);
 }
 .caixa-imagem img{
-  width: 300px;
-  height: 350px;
+  width: 150%;
   border-radius: 15px;
 }
 .projeto{
